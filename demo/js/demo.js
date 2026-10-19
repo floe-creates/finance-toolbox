@@ -3,7 +3,7 @@
    Change BUY_URL to your Etsy listing link. */
 (function () {
   "use strict";
-  var BUY_URL = "https://www.etsy.com/shop/TrueFloeStudios";
+  var BUY_URL = "https://www.etsy.com/listing/4598098334";
   /* the demo saves under its own names, so on a shared web address (GitHub Pages) it can never
      read, change or erase the real app's numbers; it clears only its own copy on every visit */
   window.FT_STORAGE = { key: "financeToolbox.demo", db: "financeToolbox-demo-data" };
